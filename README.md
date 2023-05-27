@@ -7,7 +7,7 @@
 
 
 I'm  [Android  App Developer] 👨🏻‍💻 aspiring to become an Expert in the field of Android App  development . I’m also an Open-Source enthusiast with all of my projects open-sourced on [Github]. Seeking a challenging solution development position in Android App Development . Desire to dene and create the best possible
-solution to become an invaluable asset to the company my [Resume](https://github.com/tech-deity/tech-deity/blob/main/VishalResume.pdf)
+solution to become an invaluable asset to the company ..
 <br/>
 <br/>
 
