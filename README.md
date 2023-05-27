@@ -49,7 +49,6 @@ solution to become an invaluable asset to the company ..
 - 🗼 Living in **NEW DELHI, India**
 
 - 👨‍💻 Currently Working at Mob Coder
-- 👍 Dog and Gaming 🐶 🎮
 - ✈️ Open to Remote Job Opportunities 🍻
 <br/>
 
