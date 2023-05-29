@@ -61,6 +61,6 @@ solution to become an invaluable asset to the company ..
 
 
 
-![Vishal Kumar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-deity&langs_count=10&lact&hide=makefile,html)
+![Vishal Kumar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kt&langs_count=10&lact&hide=makefile,html)
 
 
