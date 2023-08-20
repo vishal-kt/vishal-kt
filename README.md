@@ -63,4 +63,31 @@ I'm  Android  App Developer 👨🏻‍💻 aspiring to become an Expert in the 
 - 👨‍💻 Currently Working at Mob Coder
 - ✈️ Open to Remote Job Opportunities 🍻
 
+  
+
+<h3>Preparing for Interview</h3>
+
+[Kotlin](https://gist.github.com/paulfranco/4453383cc6df064d03087ce7aa5a0c8c)
+
+[KotlinInterView](https://github.com/vamsitallapudi/Android-Interview-Questions-And-Answers/blob/master/kotlin/README.md)
+
+[kotlinBasics](https://github.com/Devinterview-io/kotlin-interview-questions)
+
+[Kotlin Coding Challenge](https://github.com/igorwojda/kotlin-coding-challenges)
+
+[Android](https://github.com/vishal-kt/Android-Interview-Question)
+
+[Android RoadMap](https://github.com/amitshekhariitbhu/android-developer-roadmap) 
+
+[Android InterView Question](https://github.com/amitshekhariitbhu/android-interview-questions) 
+
+[Android InterView pattern](https://github.com/hellosagar/android-interview-questions)
+
+
+
+
+
+
+
+
 
