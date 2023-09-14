@@ -53,7 +53,6 @@ I'm  Android  App Developer 👨🏻‍💻 aspiring to become an Expert in the 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-kt&show_icons=true&locale=en&layout=compact&hide=HTML" alt="vishal-kt" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-kt&show_icons=true&locale=en" alt="vishal-kt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kt&" alt="vishal-kt" /></p>
 
