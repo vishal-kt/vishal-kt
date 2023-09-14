@@ -56,7 +56,6 @@ I'm  Android  App Developer 👨🏻‍💻 aspiring to become an Expert in the 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kt&" alt="vishal-kt" /></p>
 
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-kt&" alt="vishal-kt /></p>
 
 - 🗼 Living in **NEW DELHI, India**
 
@@ -84,6 +83,10 @@ I'm  Android  App Developer 👨🏻‍💻 aspiring to become an Expert in the 
 [Android InterView pattern](https://github.com/hellosagar/android-interview-questions)
 
 [kmm-tv-app](https://github.com/omkar-tenkale/tv-maniac-kmm)
+
+
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-kt&" alt="vishal-kt /></p>
+
 
 
 
