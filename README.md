@@ -1,5 +1,5 @@
 
- <a href="https://www.github.com/vishal-kt" target="_blank" rel="noreferrer"> <img src="https://github.com/vishal-kt/vishal-kt/blob/main/banner.png" alt="xd" width="40" height="40"/> </a>
+ <a href="https://www.github.com/vishal-kt" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vishal-kt/vishal-kt/main/banner.svg" alt="xd" width="40" height="40"/> </a>
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A Passionate Software Developer from India having around 1.5 years of experience in android development.</h3>
 
