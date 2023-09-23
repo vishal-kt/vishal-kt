@@ -1,5 +1,5 @@
 
-![Alt text]([image link](https://github.com/vishal-kt/vishal-kt/blob/main/banner.png))
+ <a href="https://www.github.com/vishal-kt" target="_blank" rel="noreferrer"> <img src="https://github.com/vishal-kt/vishal-kt/blob/main/banner.png" alt="xd" width="40" height="40"/> </a>
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A Passionate Software Developer from India having around 1.5 years of experience in android development.</h3>
 
@@ -58,10 +58,12 @@ I'm  Android  App Developer 👨🏻‍💻 aspiring to become an Expert in the 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+ 
   
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-kt&show_icons=true&locale=en&layout=compact&hide=HTML" alt="vishal-kt" /></p>
+
 
 
 
