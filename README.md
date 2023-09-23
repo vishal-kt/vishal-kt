@@ -1,3 +1,5 @@
+
+![Alt text]([image link](https://github.com/vishal-kt/vishal-kt/blob/main/banner.png))
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A Passionate Software Developer from India having around 1.5 years of experience in android development.</h3>
 
