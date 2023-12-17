@@ -11,7 +11,7 @@ I'm  Android  App Developer 👨🏻‍💻 aspiring to become an Expert in the 
 
 <p align="left"> <a href="https://twitter.com/imvishal_vk" target="blank"><img src="https://img.shields.io/twitter/follow/imvishal_vk?logo=twitter&style=for-the-badge" alt="imvishal_vk" /></a> </p>
 
-- 🔭 I’m currently working on [travelary.ai](https://github.com/vishal-kt/travelary.ai/)
+- 🔭 I’m currently working on [reventura .ai](https://github.com/vishal-kt/reventura)
 
 - 🌱 I’m currently learning **JetPack Compose**
 
