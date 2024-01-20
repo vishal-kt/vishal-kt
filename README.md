@@ -11,7 +11,7 @@ I'm  Android  App Developer 👨🏻‍💻 aspiring to become an Expert in the 
 
 <p align="left"> <a href="https://twitter.com/imvishal_vk" target="blank"><img src="https://img.shields.io/twitter/follow/imvishal_vk?logo=twitter&style=for-the-badge" alt="imvishal_vk" /></a> </p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-kt&show_icons=true&locale=en" alt="vishal-kt" /></p>
 
 - 🌱 I’m currently learning **JetPack Compose**
 
